@@ -1,0 +1,67 @@
+
+
+
+Basics
+
+Chat model
+
+Prompt templates
+
+
+Simple chain
+
+RAG Fundamentals
+
+Chunking
+
+Embeddings
+
+Vectorstores (Chroma)
+
+
+Retrieval
+
+Build Real RAG
+
+RAG chain = retriever + prompt + LLM
+
+
+Test with Groq models
+
+Tools & Function Calling
+
+Let LLM call functions
+
+Calculator, search tool
+
+
+Your custom Python tool
+
+Agents
+
+Single-tool agent
+
+Multi-tool agent
+
+
+Structured outputs
+
+Memory (optional)
+
+Chat history
+
+Conversation buffers
+
+
+RAG + memory hybrid
+
+Your First Project
+
+Build a working AI assistant
+
+Bring your own documents
+
+
+Query + citations
+
+Deploy as a small API
